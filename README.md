@@ -31,5 +31,5 @@ Want to know more about me? [Check out my portfolio.](https://porftolio-xi.verce
 <br>
 
 <a href="https://github.com/f4ayush/">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=f4ayush&hide_border=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22" alt="Ayush's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Ayush&hide_border=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22" alt="Ayush's GitHub Stats" />
 </a>
